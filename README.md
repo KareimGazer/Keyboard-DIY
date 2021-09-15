@@ -3,6 +3,9 @@
 ![example](https://github.com/KareimGazer/Keyboard-DIY/blob/main/assets/terminal.PNG?raw=true)
 
 # Hardware Config
+## Tools used
+
+## Schematic
 
 # Software config
 
