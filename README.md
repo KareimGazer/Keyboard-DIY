@@ -7,5 +7,11 @@
 # Software config
 
 # Arch
+## Features used
+- Edge triggered Interrupt at Port B
+- SysTick Interrupt
+- UART0 Interrupt with Software and Hardware FIFOs
+
+## Idea
 
 # Important
