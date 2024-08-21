@@ -1,5 +1,6 @@
 # Keyboard-DIY
-### How to do a keyboard yourself using ARM-Cortex-M4
+## Make a keyboard yourself at home using ARM-Cortex-M4 micro-controller
+
 ![example](https://github.com/KareimGazer/Keyboard-DIY/blob/main/assets/terminal.PNG?raw=true)
 
 # Hardware Config
